@@ -53,3 +53,12 @@ c:\users\lbr-07\documents\visual studio 2013\Projects\LogEntries\LogEntries\bin\
 c:\users\lbr-07\documents\visual studio 2013\Projects\LogEntries\LogEntries\obj\Debug\LogEntries.csprojResolveAssemblyReference.cache
 c:\users\lbr-07\documents\visual studio 2013\Projects\LogEntries\LogEntries\obj\Debug\LogEntries.dll
 c:\users\lbr-07\documents\visual studio 2013\Projects\LogEntries\LogEntries\obj\Debug\LogEntries.pdb
+C:\Users\LBR-07\Documents\Visual Studio 2013\Projects\LogEntries\LogEntries\bin\log4net.dll
+C:\Users\LBR-07\Documents\Visual Studio 2013\Projects\LogEntries\LogEntries\bin\LogentriesCore.dll
+C:\Users\LBR-07\Documents\Visual Studio 2013\Projects\LogEntries\LogEntries\bin\LogentriesNLog.dll
+C:\Users\LBR-07\Documents\Visual Studio 2013\Projects\LogEntries\LogEntries\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\LBR-07\Documents\Visual Studio 2013\Projects\LogEntries\LogEntries\bin\NLog.dll
+C:\Users\LBR-07\Documents\Visual Studio 2013\Projects\LogEntries\LogEntries\bin\log4net.xml
+C:\Users\LBR-07\Documents\Visual Studio 2013\Projects\LogEntries\LogEntries\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\LBR-07\Documents\Visual Studio 2013\Projects\LogEntries\LogEntries\bin\NLog.xml
+C:\Users\LBR-07\Documents\Visual Studio 2013\Projects\LogEntries\LogEntries\bin\LogentriesLog4net.dll

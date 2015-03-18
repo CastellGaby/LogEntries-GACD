@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-
+using log4net;
 namespace LogEntries.Models
 {
     public class ExternalLoginConfirmationViewModel
