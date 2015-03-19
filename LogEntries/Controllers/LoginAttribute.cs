@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using log4net;
 
+
 namespace LogEntries.Controllers
 {
     public class LoginAttribute:ActionFilterAttribute , IExceptionFilter
